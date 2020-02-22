@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AppInventory_1_1</string>
+
+    //Menu departamentos
+    <string-array name="lista_departamentos">
+        <item>Laboratorio</item>
+        <item>Aula</item>
+        <item>Cubiculo</item>
+        <item>Sanitario</item>
+        <item>Otro</item>
+    </string-array>
+
+    //Menu tipo de mantenimeinto urgencia
+    <string-array name="lista_urgencia_mant">
+        <item>Ordinario</item>
+        <item>Urgente</item>
+        <item>Programado</item>
+    </string-array>
+
+    //Menu departamentos
+    <string-array name="tipo_de_mant">
+        <item>ELECRICIDAD</item>
+        <item>PLOMERÍA</item>
+        <item>HERRERÍA</item>
+        <item>CARPINTERÍA</item>
+        <item>CERRAJERÍA</item>
+        <item>Otro</item>
+    </string-array>
+
+</resources>
